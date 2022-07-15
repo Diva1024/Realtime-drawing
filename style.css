@@ -1,0 +1,28 @@
+.C123{
+    font-size:20px;
+    width:100%;
+    margin:0px;
+    box-shadow:5px 5px 35px aquamarine;
+
+}
+.note{
+    font-size: 15px;
+    color:rgb(116, 84, 177);
+    
+}
+.copyright_footer{
+position:fixed;
+color:white;
+bottom:0;
+width:100%;
+background-color: plum;
+line-height: 3;
+text-align: center;
+font-size:25px
+}
+canvas{
+    border:5px solid lightslategray;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px cornflowerblue;
+    
+}
